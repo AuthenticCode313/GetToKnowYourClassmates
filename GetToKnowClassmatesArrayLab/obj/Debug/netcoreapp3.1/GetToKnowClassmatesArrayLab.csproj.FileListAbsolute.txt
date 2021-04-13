@@ -1,0 +1,13 @@
+C:\Users\12482\source\repos\GetToKnowClassmatesArrayLab\GetToKnowClassmatesArrayLab\bin\Debug\netcoreapp3.1\GetToKnowClassmatesArrayLab.exe
+C:\Users\12482\source\repos\GetToKnowClassmatesArrayLab\GetToKnowClassmatesArrayLab\bin\Debug\netcoreapp3.1\GetToKnowClassmatesArrayLab.deps.json
+C:\Users\12482\source\repos\GetToKnowClassmatesArrayLab\GetToKnowClassmatesArrayLab\bin\Debug\netcoreapp3.1\GetToKnowClassmatesArrayLab.runtimeconfig.json
+C:\Users\12482\source\repos\GetToKnowClassmatesArrayLab\GetToKnowClassmatesArrayLab\bin\Debug\netcoreapp3.1\GetToKnowClassmatesArrayLab.runtimeconfig.dev.json
+C:\Users\12482\source\repos\GetToKnowClassmatesArrayLab\GetToKnowClassmatesArrayLab\bin\Debug\netcoreapp3.1\GetToKnowClassmatesArrayLab.dll
+C:\Users\12482\source\repos\GetToKnowClassmatesArrayLab\GetToKnowClassmatesArrayLab\bin\Debug\netcoreapp3.1\GetToKnowClassmatesArrayLab.pdb
+C:\Users\12482\source\repos\GetToKnowClassmatesArrayLab\GetToKnowClassmatesArrayLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesArrayLab.csprojAssemblyReference.cache
+C:\Users\12482\source\repos\GetToKnowClassmatesArrayLab\GetToKnowClassmatesArrayLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesArrayLab.AssemblyInfoInputs.cache
+C:\Users\12482\source\repos\GetToKnowClassmatesArrayLab\GetToKnowClassmatesArrayLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesArrayLab.AssemblyInfo.cs
+C:\Users\12482\source\repos\GetToKnowClassmatesArrayLab\GetToKnowClassmatesArrayLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesArrayLab.csproj.CoreCompileInputs.cache
+C:\Users\12482\source\repos\GetToKnowClassmatesArrayLab\GetToKnowClassmatesArrayLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesArrayLab.dll
+C:\Users\12482\source\repos\GetToKnowClassmatesArrayLab\GetToKnowClassmatesArrayLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesArrayLab.pdb
+C:\Users\12482\source\repos\GetToKnowClassmatesArrayLab\GetToKnowClassmatesArrayLab\obj\Debug\netcoreapp3.1\GetToKnowClassmatesArrayLab.genruntimeconfig.cache
